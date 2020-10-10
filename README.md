@@ -6,8 +6,8 @@
  <li>Instagram Stories</li>
  <li>Instagram Follow/Un-Follow feature</li>
  <li>View Post/stores/profile of users you follow</li>
- <li>Search page to find new pwople and follow them</li>
- <li>Like,comment and save a post</li>
+ <li>Search page to find new people and follow them</li>
+ <li>Like, comment, and save a post</li>
  <li>Notifications page</li>
 </ul>
 
